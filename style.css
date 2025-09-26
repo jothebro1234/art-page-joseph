@@ -65,10 +65,3 @@ button:hover {
     cursor: pointer;
 }
 
-.about {
-    background: white;
-    max-width: 600px;
-    margin: 100px auto 40px auto;
-    padding: 50px;
-    text-align: center;
-}
